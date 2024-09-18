@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Machine learning and AI
+- 🌱 I’m currently learning Machine learning
 
 <!--
 **tanishqatojo/tanishqatojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
